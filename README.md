@@ -24,4 +24,4 @@ I have used OpenJDK 11.0.7, thus I used GNU GPL v2.
 
 Feel free for any suggestions, bugs, recommendations or improvements.
 
-Thanks
+# THANKS
