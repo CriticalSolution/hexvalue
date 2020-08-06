@@ -12,6 +12,16 @@ public static void main(String[] args) {
   hv.writeFile(6, 444);
 }
 
-# How to test
+# Changing location of output file
 
 If you want to change address of output of result, you have to change "fileName".
+
+# Licence
+
+I have used OpenJDK 11.0.7, thus I used GNU GPL v2.
+
+# Questions?
+
+Feel free for any suggestions, bugs, recommendations or improvements.
+
+Thanks
